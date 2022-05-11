@@ -57,7 +57,7 @@ var uscore = 0;
                         a=a-uchoice;
                         document.getElementById("uchoice").innerHTML=uchoice;
                         document.getElementById("cchoice").innerHTML=cchoice;
-                        document.getElementById("score").innerHTML = uscore;
+                        document.getElementById("score").innerHTML = a;
 
                     }
                    if (uscore > oppscore) {
@@ -88,7 +88,7 @@ var uscore = 0;
                         a=a-uchoice;
                         document.getElementById("uchoice").innerHTML=uchoice;
                         document.getElementById("cchoice").innerHTML=cchoice;
-                        document.getElementById("score").innerHTML = uscore;
+                        document.getElementById("score").innerHTML = a;
 
                     }
                    if (uscore > oppscore) {
@@ -117,7 +117,7 @@ var uscore = 0;
                         a=a-uchoice;
                         document.getElementById("uchoice").innerHTML=uchoice;
                         document.getElementById("cchoice").innerHTML=cchoice;
-                        document.getElementById("score").innerHTML = uscore;
+                        document.getElementById("score").innerHTML = a;
 
                     }
                    if (uscore > oppscore) {
@@ -147,7 +147,7 @@ var uscore = 0;
                         a=a-uchoice;
                         document.getElementById("uchoice").innerHTML=uchoice;
                         document.getElementById("cchoice").innerHTML=cchoice;
-                        document.getElementById("score").innerHTML = uscore;
+                        document.getElementById("score").innerHTML = a;
 
                     }
                    if (uscore > oppscore) {
@@ -177,7 +177,7 @@ var uscore = 0;
                         a=a-uchoice;
                         document.getElementById("uchoice").innerHTML=uchoice;
                         document.getElementById("cchoice").innerHTML=cchoice;
-                        document.getElementById("score").innerHTML = uscore;
+                        document.getElementById("score").innerHTML = a;
 
                     }
                    if (uscore > oppscore) {
